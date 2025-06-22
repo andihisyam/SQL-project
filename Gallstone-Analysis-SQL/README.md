@@ -2,10 +2,6 @@
 
 ## Project Overview
 
-**Project Title:** Gallstone Dataset Analysis
-**Level:** Beginner
-**Database:** gallstone_db (example - adjust to your actual database name)
-
 This project demonstrates SQL skills and techniques for exploring and analyzing a dataset related to gallstone presence and various patient characteristics. The project involves setting up a database (if needed), performing data exploration, and answering specific questions through SQL queries to understand potential relationships and risk factors. This project is suitable for individuals starting their journey in data analysis and seeking to apply SQL to healthcare-related data.
 
 ## Objectives
