@@ -64,3 +64,7 @@ CREATE TABLE gallstone_data (
     HGB FLOAT,
     `Vitamin D` FLOAT
 );
+
+### 2. Data Exploration & Cleaning
+*   **Database Creation:** (If necessary) Create a database to house the gallstone data.  Example: `CREATE DATABASE gallstone_db;`
+*   **Table Creation:** Create a table named `gallstone_data` to store the patient information.  The table structure includes columns for Gallstone Status, Age, Gender, Comorbidity, and other relevant features.
